@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="238" viewBox="0 0 1280 238" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">jianghuai — model checkpoints</title>
+  <desc id="desc">OSD and SAIM model checkpoints for ViT-B/32 and LLaMA-3.2-1B-Instruct. Open the repository to explore code and releases.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141B24"/>
+      <stop offset="1" stop-color="#0E131A"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1280" height="238" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="238" fill="url(#bg)"/>
+    <rect x="0" y="30" width="3" height="178" rx="1.5" fill="#D9AA7E"/>
+    <text x="42" y="46" fill="#D8AB83" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2.2">01 / SELECTED RESEARCH ARTIFACT</text>
+    <text x="40" y="106" fill="#F2F0EB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.2">jianghuai</text>
+    <text x="43" y="145" fill="#C4CCD5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">OSD + Task Arithmetic · SA-BCD + SAIM</text>
+    <text x="43" y="181" fill="#8E9DAC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">ViT-B/32 · LLaMA-3.2-1B-Instruct · Verified checkpoints</text>
+    <path d="M926 62L1010 118L1094 62M926 176L1010 118L1094 176M1010 118H1174" stroke="#7D8FA3" stroke-opacity="0.28" stroke-width="1.5"/>
+    <circle cx="926" cy="62" r="9" fill="#19222D" stroke="#68798D"/>
+    <circle cx="1094" cy="62" r="9" fill="#19222D" stroke="#68798D"/>
+    <circle cx="926" cy="176" r="9" fill="#19222D" stroke="#68798D"/>
+    <circle cx="1094" cy="176" r="9" fill="#19222D" stroke="#68798D"/>
+    <circle cx="1010" cy="118" r="20" fill="#242329" stroke="#DEAF81" stroke-width="1.5"/>
+    <circle cx="1010" cy="118" r="5" fill="#E5B88B"/>
+    <rect x="1155" y="99" width="38" height="38" rx="8" fill="#20232A" stroke="#B48C69"/>
+    <path d="M1168 124L1180 112M1169 112H1180V123" stroke="#E5B88B" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="0.5" y="0.5" width="1279" height="237" rx="11.5" stroke="#62758D" stroke-opacity="0.28"/>
+  </g>
+</svg>
