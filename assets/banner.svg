@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="384" viewBox="0 0 1280 384" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ecipsed</title>
+  <desc id="desc">A copper eclipse above subtle orbital paths. Exploring how models learn, adapt, and combine.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111821"/>
+      <stop offset="1" stop-color="#0A0E14"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0.32" stop-color="#E6AF78" stop-opacity="0.2"/>
+      <stop offset="0.53" stop-color="#CD8350" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#CD8350" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="886" y1="80" x2="1060" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9D6A4"/>
+      <stop offset="0.45" stop-color="#D68B56"/>
+      <stop offset="0.8" stop-color="#64442F"/>
+      <stop offset="1" stop-color="#C79368"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="0.24" cy="0.16" r="0.88">
+      <stop stop-color="#1C242D"/>
+      <stop offset="0.65" stop-color="#10151D"/>
+      <stop offset="1" stop-color="#0A0E14"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#A7B4C5" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1280" height="384" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="384" fill="url(#bg)"/>
+    <rect width="1280" height="384" fill="url(#grid)"/>
+    <path d="M72 63H97" stroke="#E3B386" stroke-width="2"/>
+    <text x="110" y="68" fill="#AFBAC6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2.8">A PERSONAL RESEARCH SPACE</text>
+    <text x="68" y="174" fill="#F2F0EB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="82" font-weight="650" letter-spacing="-3">Ecipsed<tspan fill="#E4B083">.</tspan></text>
+    <text x="73" y="221" fill="#C2CBD5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21">Exploring how models learn, adapt, and combine.</text>
+    <path d="M73 258H586" stroke="#29323D"/>
+    <text x="73" y="290" fill="#DAB08A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.1">MODEL MERGING</text>
+    <circle cx="225" cy="286" r="2" fill="#53606F"/>
+    <text x="244" y="290" fill="#A2B0BF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.1">CONTINUAL LEARNING</text>
+    <circle cx="435" cy="286" r="2" fill="#53606F"/>
+    <text x="454" y="290" fill="#A2B0BF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.1">OPEN RESEARCH</text>
+    <circle cx="981" cy="179" r="205" fill="url(#halo)"/>
+    <circle cx="981" cy="179" r="144" stroke="#BA966D" stroke-opacity="0.14" stroke-dasharray="2 8"/>
+    <circle cx="981" cy="179" r="114" stroke="#BA966D" stroke-opacity="0.12"/>
+    <ellipse cx="981" cy="179" rx="224" ry="61" transform="rotate(-31 981 179)" stroke="#8093A7" stroke-opacity="0.2"/>
+    <ellipse cx="981" cy="179" rx="188" ry="92" transform="rotate(36 981 179)" stroke="#8093A7" stroke-opacity="0.12"/>
+    <circle cx="981" cy="179" r="88" fill="#D5A06D" fill-opacity="0.03" stroke="#D9A573" stroke-opacity="0.15" stroke-width="10"/>
+    <circle cx="981" cy="179" r="86" fill="url(#moon)" stroke="url(#ring)" stroke-width="2"/>
+    <path d="M910 129A86 86 0 0 1 1004 96" stroke="#FFE0B1" stroke-width="2.6" stroke-linecap="round"/>
+    <circle cx="856" cy="224" r="4" fill="#E6BD91"/>
+    <circle cx="1122" cy="104" r="3" fill="#D6AA7F"/>
+    <circle cx="1088" cy="275" r="2.5" fill="#8EA0B4"/>
+    <path d="M1177 60V72M1171 66H1183" stroke="#6E7B8C"/>
+    <path d="M771 291V299M767 295H775" stroke="#6E7B8C"/>
+    <circle cx="820" cy="79" r="1.5" fill="#788B9F"/>
+    <circle cx="1167" cy="256" r="1.5" fill="#788B9F"/>
+    <text x="981" y="346" text-anchor="middle" fill="#778594" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="3">CURIOSITY IN ORBIT</text>
+    <path d="M73 341H586" stroke="#A5B3C4" stroke-opacity="0.08"/>
+    <rect x="0.5" y="0.5" width="1279" height="383" rx="15.5" stroke="#A9B6C8" stroke-opacity="0.1"/>
+  </g>
+</svg>
